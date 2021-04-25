@@ -30,7 +30,7 @@ The prototype was build using :
 2) Download all files
 3) Go to game mode and click Play button.
 
-### Some snippets of our prototype:
+### Some snippets of our prototype :
 
 
 
