@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  background-color: #ffacac;
+  height: 80vh;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ui.card {
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.ui.button.check {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: green;
+  color: white;
+}
+
+p {
+  margin-top: 10px;
+}
+h2{
+  margin-top: 2px;
+color: rgb(106, 0, 128);
+}
