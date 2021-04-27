@@ -1,7 +1,7 @@
 # Virtual Try On & 3D Fitting room
 
 ### Try on for accessories and apparels: 
-The technology aims to bridge the gap between physical and virtual shopping by enhancinng the user’s  shopping experience .it aims to provide a sustainable,safe and secure digital infrastructure in view of the pandemic.
+The technology aims to bridge the gap between physical and virtual shopping by enhancinng the user’s shopping experience. It aims to provide a sustainable, safe and secure digital infrastructure in view of the pandemic.
 
 
 ## Built on: 
